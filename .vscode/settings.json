@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": ".venv/bin/python3",
+    "python.autoComplete.extraPaths": [
+        "src"
+      ],
+    
+      "editor.fontSize": 18,
+      "python.analysis.extraPaths": [
+        "src"
+      ],
+      "python.linting.enabled": false,
+      "python.linting.pylintEnabled": true,
+      "python.linting.flake8Enabled": false,
+      "python.linting.mypyEnabled": false
+    
+    }
